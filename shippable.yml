@@ -1,0 +1,11 @@
+language: python
+
+python:
+	- 2.7
+	- 3.0
+
+script:
+	- sleep 10s
+
+build_timeout: 5000
+
