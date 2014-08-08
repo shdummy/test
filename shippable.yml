@@ -7,4 +7,4 @@ python:
 script:
   - sleep 10s
 
-build_timeout: 500
+build_timeout: 5000
