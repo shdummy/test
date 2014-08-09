@@ -5,6 +5,6 @@ python:
   - 3.0
 
 script:
-  - sleep 1s
+  - sleep 10s
 
 build_timeout: 3600
