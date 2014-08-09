@@ -5,6 +5,7 @@ python:
   - 3.0
 
 script:
-  - sleep 10s
+  - sleep 1s
+  - echo "This is a specific commit SHA"
 
 build_timeout: 3600
