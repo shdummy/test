@@ -4,7 +4,7 @@ python:
   - 3.0
 
 script:
-  - sleep 12s
+  - sleep 1s
   - echo "You are on some other branch, homie"
 
 build_timeout: 3600
