@@ -6,5 +6,6 @@ python:
 
 script:
   - sleep 10s
+  - echo "What the fork!?"
 
 build_timeout: 3600
