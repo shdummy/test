@@ -7,4 +7,4 @@ script:
   - sleep 1s
   - echo "What the fluke!?"
 
-build_timeout: 3600
+build_timeout: 3601
